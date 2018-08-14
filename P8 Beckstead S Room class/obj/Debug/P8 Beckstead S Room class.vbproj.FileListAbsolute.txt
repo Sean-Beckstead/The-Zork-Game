@@ -1,0 +1,82 @@
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.exe
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.pdb
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.xml
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\ResolveAssemblyReference.cache
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Form1.resources
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Resources.resources
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.vbproj.GenerateResource.Cache
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.exe
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.xml
+F:\P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.pdb
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.exe
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.xml
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.pdb
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\ResolveAssemblyReference.cache
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Form1.resources
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Resources.resources
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.vbproj.GenerateResource.Cache
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.exe
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.pdb
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.xml
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.exe
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.xml
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.pdb
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.exe
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.pdb
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.xml
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\ResolveAssemblyReference.cache
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Form1.resources
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Resources.resources
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.vbproj.GenerateResource.Cache
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Map.resources
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Map.resources
+H:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.InventoryForm.resources
+F:\Copy of P8 Beckstead S Room class\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.InventoryForm.resources
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.exe
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.xml
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.pdb
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.exe
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.pdb
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.xml
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\ResolveAssemblyReference.cache
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Form1.resources
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.InventoryForm.resources
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Map.resources
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Resources.resources
+F:\Copy of P8 Beckstead S Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.vbproj.GenerateResource.Cache
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.exe
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.xml
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.pdb
+F:\The Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.exe
+F:\The Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.pdb
+F:\The Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.xml
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\ResolveAssemblyReference.cache
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Form1.resources
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.InventoryForm.resources
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Map.resources
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Resources.resources
+F:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.vbproj.GenerateResource.Cache
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.exe
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.xml
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.pdb
+H:\The Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.exe
+H:\The Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.pdb
+H:\The Zork Game\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.xml
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\ResolveAssemblyReference.cache
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Form1.resources
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.InventoryForm.resources
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Map.resources
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Resources.resources
+H:\The Zork Game\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.vbproj.GenerateResource.Cache
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.exe
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.xml
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.pdb
+F:\The Zork Game Array\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.exe
+F:\The Zork Game Array\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.pdb
+F:\The Zork Game Array\P8 Beckstead S Room class\bin\Debug\P8 Beckstead S Room class.xml
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\ResolveAssemblyReference.cache
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Form1.resources
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.InventoryForm.resources
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Map.resources
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\P8_Beckstead_S_Room_class.Resources.resources
+F:\The Zork Game Array\P8 Beckstead S Room class\obj\Debug\P8 Beckstead S Room class.vbproj.GenerateResource.Cache
